@@ -1,0 +1,11 @@
+pandas
+matplotlib
+jupyter
+git+https://github.com/aoki-h-jp/binance-bulk-downloader
+pytest
+coverage
+seaborn
+scikit-learn
+tensorflow
+statsmodels
+tqdm
